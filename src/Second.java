@@ -114,5 +114,6 @@ public class Second {
 		System.out.println("changes made after cloning the project1st");
 		System.out.println("GitX Changes");
 		System.out.println("GitDemo_developBranch");
+		System.out.println("GitX_developBranch");
  }
 }
