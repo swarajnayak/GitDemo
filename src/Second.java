@@ -111,5 +111,6 @@ public class Second {
 		
 		for(String j : fruits)
 			System.out.println(j);
+		System.out.println("changes made after cloning the project");
  }
 }
