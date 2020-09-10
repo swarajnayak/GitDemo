@@ -111,6 +111,7 @@ public class Second {
 		
 		for(String j : fruits)
 			System.out.println(j);
-		System.out.println("changes made after cloning the project");
+		System.out.println("changes made after cloning the project1st");
+		System.out.println("GitX Changes");
  }
 }
